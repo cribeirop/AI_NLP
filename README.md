@@ -21,11 +21,11 @@ Para rodar este projeto, siga os seguintes passos:
     ```bash 
     source venv/bin/activate
     ``` 
-    or
+    ou
     ```bash
     .\venv\bin\Activate.ps1
     ``` 
-    or 
+    ou 
     ```bash
     .\env\Scripts\activate
     ```
