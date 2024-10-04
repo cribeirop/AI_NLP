@@ -2,7 +2,7 @@
 
 Este projeto visa analisar um conjunto de dados visando classificá-lo usando técnicas e modelos de predição, e discutir acerca do desempenho e métricas obtidas, assim como os próximos passos para sua aprimoração.
 
-O conjunto de dados utilizado é chamado de [Sentiment Analysis for Mental Health](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
+O conjunto de dados utilizado é chamado [Sentiment Analysis for Mental Health](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health), e é derivado de várias fontes, como postagens em mídias sociais, Reddit, Twitter, entre outras, permitindo uma ampla análise do comportamento textual relacionado à saúde mental.
 
 ## Instruções
 
